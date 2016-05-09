@@ -4,6 +4,9 @@
 /**
  * Apps script
  */
+
+module.exports = appsscript;
+
 function appsscript(superagent) {
 
 
