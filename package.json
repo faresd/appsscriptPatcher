@@ -1,5 +1,5 @@
 {
-  "name": "superagent-appsscript-patcher",
+  "name": "appsscriptPatcher",
   "version": "0.1.0",
   "description": "A appsscript plugin for superagent.",
   "main": "index.js",
