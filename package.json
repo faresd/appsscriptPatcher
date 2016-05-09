@@ -1,0 +1,28 @@
+{
+  "name": "superagent-appsscript-patcher",
+  "version": "0.1.0",
+  "description": "A appsscript plugin for superagent.",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "superagent",
+    "appsscript",
+    "patch",
+    "plugin"
+  ],
+  "author": "Fares <fares.droubi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "superagent": "^1.2.0"
+  },
+  "dependencies": {
+  }
+}
