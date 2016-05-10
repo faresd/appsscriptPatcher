@@ -106,9 +106,8 @@ function appsscript(superagent) {
     return this;
   };
 
-  // Patch Request.send()
 
-  return appsscript; // chaining
+  return superagent;
 
 }
 
